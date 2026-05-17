@@ -62,7 +62,7 @@ else:
             # Tvoj službeni SlideShare link za knjigu
             st.link_button(
                 "📖 OTVORI KNJIGU: Crni Humor i Tepsija Vruće Pite 2 (SlideShare)", 
-                "https://slideshare.net"
+                "https://de.slideshare.net/slideshow/crni-humor-i-tepsija-vruce-pite-2-pita-od-bundeve/287554252"
             )
             
             st.markdown("""
