@@ -71,9 +71,13 @@ else:
             * **ČIN III:** Duhovna aktivacija u parku na aramejskom jeziku. Manekeni s čipovima bježe, a na stablu ostaje užaren trag džepova od hlača.
             """)
             
-            # Privremena obavijest za PDF scenarija
-            st.warning("⏳ PDF kazališnog scenarija se trenutno peče u tepsiji i bit će postavljen uskoro pod radarom.")
-            
+            # Pdf scenarij
+            # Službeni link za kazališni scenarij
+            st.link_button(
+            "🎭 OTVORI KAZALIŠNI SCENARIJ: Veritas in Tepsia (PDF)", 
+            "https://de.slideshare.net/slideshow/crni-humor-i-tepsija-vruce-pite-2-duhovni-kazalisni-crni-teatar/287743343"
+             )
+
         with tab2:
             st.write("#### 🌍 STAGE PLAY OVERVIEW / PITCH")
             st.markdown("""
